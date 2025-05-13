@@ -40,7 +40,7 @@ again.
      commits related to that bug or feature.
 
   1. Test your code on a device if you can. There are a bunch of edge conditions
-     that can be triggered in `UIWebView` where behavior in the simulator is 
+     that can be triggered in `censored` where behavior in the simulator is 
      going to differ from behavior on a physical device.
 
   1. Any significant changes should almost always be accompanied by tests.  The
